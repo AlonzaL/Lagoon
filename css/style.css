@@ -320,7 +320,7 @@ h1, h2, h3 {
 
 /* НАДО СДЕЛАТЬ ТЕНЬ*/
 .card-left-1 {
-    background-image: url('img/darken.svg'), url('img/card-left-1.jpg');
+    background-image: url('../img/darken.svg'), url('../img/card-left-1.jpg');
     background-position: center, center;
     background-repeat: no-repeat, no-repeat;
     background-size: 573px 258px, 100%;
@@ -328,7 +328,7 @@ h1, h2, h3 {
 }
 
 .card-left-2 {
-    background-image: url('img/darken.svg'), url('img/card-left-2.jpg');
+    background-image: url('../img/darken.svg'), url('../img/card-left-2.jpg');
     background-position: center, center;
     background-repeat: no-repeat, no-repeat;
     background-size: 573px 258px, 100%;
@@ -339,7 +339,7 @@ h1, h2, h3 {
 }
 
 .card-right {
-    background-image: url('img/card-right.jpg');
+    background-image: url('../img/card-right.jpg');
     padding-top: 212px;
     background-position: center;
     background-repeat: no-repeat;
